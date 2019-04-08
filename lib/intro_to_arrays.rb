@@ -6,3 +6,7 @@ def array_with_two_elements
   array = ['dogs', 'cats']
 end 
 
+def first_element(array)
+  array.shift
+end 
+
